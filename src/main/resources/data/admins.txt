@@ -1,0 +1,2 @@
+A001,System Admin,admin@vehiclerental.com,$2a$10$aD4l6jcj3mrNbdaiP4i86eFsDF9u9t/VyXujvm8e9HAzmTUxkec2i,SUPERADMIN
+A002,lakshitha dilshan,lakshitha@gmail.com,$2a$10$MqE6P2HEtzc72GVARSkg0umNnYMO75H6IlvIiaSyJBWEgqvYUNWqW,ADMIN

@@ -1,0 +1,4 @@
+1|2|toyota|prius|2022|55.0|oijeimofjkjnfkjkjnfj|https://www.caranddriver.com/features/g28985154/future-cars/|APPROVED|2026-03-28T14:27:12.188836|2026-03-28T14:27:33.105501
+2|3|nissan|aqua|2021|44.0|eij4ihji4nfiu5hiuenfiub4i|https://www.nordiskbil.com/dongfeng-box-at-turin-motor-show/|APPROVED|2026-03-28T14:38:46.163662|2026-03-28T14:39:01.841435
+3|3|mazda|bongo|2003|55.0|prjgh45iuhi5ungiku6iugn|https://newsroom.mazda.com/en/publicity/release/2010/201008/100820a.jpg|APPROVED|2026-03-29T10:45:23.924305|2026-03-29T10:45:38.212914
+4|4|toyota|axio|2024|68.0|good vehicle|https://global.toyota/pages/news/images/2015/03/30/1330/002_2.jpg|APPROVED|2026-03-29T17:52:32.579659|2026-03-29T19:29:35.43832
